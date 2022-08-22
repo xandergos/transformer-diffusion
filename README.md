@@ -9,4 +9,4 @@ Preliminary testing with 64x64 images shows promising results using a swin-trans
 ![media_images_examples_678_894a471ea534b41dfb71](https://user-images.githubusercontent.com/28935064/185817687-f6ca90c5-5a65-4dfb-82ab-bea15e9fc299.png)
 ![media_images_examples_678_12e3c4bd2fbaad07c199](https://user-images.githubusercontent.com/28935064/185817688-454eca53-7b35-4534-a507-b0b18d077936.png)
 
-This test used very simple hyper parameters that are almost certainly not ideal, but were easy to debug. Additionally, recent developments such as cascaded diffusion models with conditioning augmentation were not used.
+This test used very simple hyper parameters that are almost certainly not ideal, but were easy to debug. Additionally, no recent advancements in diffusion models that complicated the testing process were used.
