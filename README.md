@@ -1,7 +1,7 @@
 # Transformer Diffusion
 Denoising diffusion probabilistic models, with transformers instead of a U-Net.
 
-Preliminary testing with 64x64 images shows promising results using a swin-transformer as a backbone. Examples of images generated during testing:
+Preliminary testing with 64x64 images shows promising results using a swin-transformer as a backbone. Examples of LSUN Bedroom images generated during testing:
 
 ![media_images_examples_678_0902ce013c5dd32af289](https://user-images.githubusercontent.com/28935064/185817684-6eda0619-9ef5-41e5-9ba4-5f7848ad4360.png)
 ![media_images_examples_678_e1cb3cdad10d00073bb5](https://user-images.githubusercontent.com/28935064/185817685-257afca7-682d-4838-be2e-7d59025b2495.png)
